@@ -1,0 +1,1552 @@
+{
+ "reports": [
+  {
+   "country": "burkina-faso",
+   "subject": "business-studies",
+   "title": "Burkina Faso (Francophone Baccalauréat System) Comparative Analysis",
+   "overall": "Moderate-High",
+   "content": {
+    "benchmark": "Benchmarking Against ALA Cambridge Business Studies and NEASC Competencies",
+    "overview": [
+     {
+      "label": "Subject Name",
+      "value": "Business Studies / Economics and Management"
+     },
+     {
+      "label": "Curriculum Structure",
+      "value": "Francophone National Curriculum (French Baccalauréat Model)"
+     },
+     {
+      "label": "Language of Instruction",
+      "value": "French"
+     },
+     {
+      "label": "Focus Areas",
+      "value": "Business Management, Entrepreneurship, Accounting Principles, Marketing, Human Resources, Organizational Management"
+     },
+     {
+      "label": "Practical Component",
+      "value": "Moderate"
+     },
+     {
+      "label": "Analytical Component",
+      "value": "Moderate-High"
+     },
+     {
+      "label": "Assessment Style",
+      "value": "Continuous Assessment + Baccalauréat Examination"
+     },
+     {
+      "label": "Research Component",
+      "value": "Moderate"
+     },
+     {
+      "label": "Alignment with Cambridge Business Studies",
+      "value": "Moderate-High"
+     }
+    ],
+    "profiles": [
+     {
+      "label": "After Grade 10 Equivalent",
+      "heading": "Academic Characteristics",
+      "ratings": [
+       {
+        "area": "Business Awareness",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Entrepreneurship",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Management Concepts",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Marketing",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Financial Literacy",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Academic English",
+        "rating": "Low"
+       },
+       {
+        "area": "Research Skills",
+        "rating": "Low-Moderate"
+       },
+       {
+        "area": "Cambridge Readiness",
+        "rating": "Moderate"
+       }
+      ],
+      "strengths": [
+       "Awareness of local business environments.",
+       "Understanding of informal economic systems.",
+       "Entrepreneurial exposure through community experiences.",
+       "Strong work ethic.",
+       "Good discipline.",
+       "Awareness of economic challenges.",
+       "Practical problem-solving ability.",
+       "Strong resilience."
+      ],
+      "challenges": [
+       "Business terminology in English.",
+       "Case study analysis.",
+       "Business report writing.",
+       "Independent research.",
+       "Financial analysis.",
+       "Presentation skills.",
+       "Innovation frameworks.",
+       "Cambridge-style evaluative questions."
+      ]
+     },
+     {
+      "label": "After Baccalauréat Completion",
+      "heading": "Academic Characteristics",
+      "ratings": [
+       {
+        "area": "Business Management",
+        "rating": "Moderate-High"
+       },
+       {
+        "area": "Entrepreneurship",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Financial Literacy",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Marketing",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Organizational Analysis",
+        "rating": "Moderate-High"
+       },
+       {
+        "area": "Business Communication",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Research Skills",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Cambridge Readiness",
+        "rating": "Moderate-High"
+       }
+      ],
+      "strengths": [
+       "Strong understanding of management principles.",
+       "Awareness of entrepreneurship challenges.",
+       "Good organizational thinking.",
+       "Strong discipline and perseverance.",
+       "Understanding of business environments.",
+       "Familiarity with economic realities.",
+       "Practical business awareness.",
+       "Good examination preparation."
+      ],
+      "challenges": [
+       "Academic English.",
+       "Business case studies.",
+       "Financial interpretation.",
+       "Independent inquiry.",
+       "Business presentations.",
+       "Research communication.",
+       "Innovation and startup ecosystems.",
+       "Cambridge assessment style."
+      ]
+     }
+    ],
+    "strengths": [
+     {
+      "area": "Entrepreneurial Awareness",
+      "evidence": "Strong exposure to local enterprise"
+     },
+     {
+      "area": "Business Environment Understanding",
+      "evidence": "Good contextual awareness"
+     },
+     {
+      "area": "Management Concepts",
+      "evidence": "Moderate-High"
+     },
+     {
+      "area": "Organizational Thinking",
+      "evidence": "Strong preparation"
+     },
+     {
+      "area": "Practical Problem Solving",
+      "evidence": "Moderate-High"
+     },
+     {
+      "area": "Financial Awareness",
+      "evidence": "Moderate"
+     },
+     {
+      "area": "Work Ethic",
+      "evidence": "Strong"
+     },
+     {
+      "area": "Adaptability",
+      "evidence": "High"
+     }
+    ],
+    "gaps": [
+     {
+      "area": "Academic English",
+      "impact": "Significant challenge"
+     },
+     {
+      "area": "Business Communication",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Financial Analysis",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Case Study Evaluation",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Independent Research",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Presentation Skills",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Innovation Exposure",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Cambridge Assessment Style",
+      "impact": "Moderate challenge"
+     }
+    ],
+    "cambridge": [
+     {
+      "area": "Management Concepts",
+      "rating": "Moderate-High"
+     },
+     {
+      "area": "Entrepreneurship",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Marketing",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Organizational Analysis",
+      "rating": "Moderate-High"
+     },
+     {
+      "area": "Financial Literacy",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Business Communication",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Case Study Analysis",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Independent Research",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Business Evaluation",
+      "rating": "Moderate"
+     },
+     {
+      "area": "A-Level Readiness",
+      "rating": "Moderate-High"
+     }
+    ],
+    "neasc": [
+     {
+      "competency": "Critical Thinking",
+      "rating": "Moderate-High",
+      "commentary": "Strong practical understanding of business challenges."
+     },
+     {
+      "competency": "Communication",
+      "rating": "Low-Moderate",
+      "commentary": "English-language transition affects business communication."
+     },
+     {
+      "competency": "Collaboration",
+      "rating": "High",
+      "commentary": "Students often adapt well to team-based environments."
+     },
+     {
+      "competency": "Creativity",
+      "rating": "Moderate",
+      "commentary": "Entrepreneurship exists but innovation ecosystems are less developed."
+     },
+     {
+      "competency": "Self-Directed Learning",
+      "rating": "Moderate",
+      "commentary": "More structured than project-based business education."
+     },
+     {
+      "competency": "Ethical Reasoning",
+      "rating": "High",
+      "commentary": "Strong awareness of community and social responsibility."
+     },
+     {
+      "competency": "Global Perspective",
+      "rating": "Moderate",
+      "commentary": "Business understanding is often locally focused."
+     }
+    ],
+    "ala": [
+     {
+      "expectation": "Entrepreneurship",
+      "preparedness": "Moderate",
+      "support": "Moderate"
+     },
+     {
+      "expectation": "Business Management",
+      "preparedness": "Moderate-High",
+      "support": "Moderate"
+     },
+     {
+      "expectation": "Financial Literacy",
+      "preparedness": "Moderate",
+      "support": "Moderate"
+     },
+     {
+      "expectation": "Business Analysis",
+      "preparedness": "Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Presentation Skills",
+      "preparedness": "Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Independent Research",
+      "preparedness": "Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Innovation Thinking",
+      "preparedness": "Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Academic English",
+      "preparedness": "Low",
+      "support": "Very High"
+     }
+    ],
+    "recommendations": [
+     {
+      "title": "Business English Programme",
+      "lead": "Focus on:",
+      "items": [
+       "Business terminology",
+       "Case study writing",
+       "Presentations",
+       "Professional communication",
+       "Business report writing"
+      ]
+     },
+     {
+      "title": "Entrepreneurship and Innovation Workshops",
+      "lead": "Support students in:",
+      "items": [
+       "Startup thinking",
+       "Design thinking",
+       "Innovation",
+       "Venture creation",
+       "Problem-solving"
+      ]
+     },
+     {
+      "title": "Cambridge Business Bridging Programme",
+      "lead": "Develop competence in:",
+      "items": [
+       "Case study evaluation",
+       "Financial analysis",
+       "Business strategy",
+       "Independent inquiry",
+       "Business communication"
+      ]
+     },
+     {
+      "title": "Enterprise Leadership Projects",
+      "lead": "Encourage students to:",
+      "items": [
+       "Launch small ventures",
+       "Analyse business problems",
+       "Present business solutions",
+       "Conduct market research",
+       "Develop leadership skills"
+      ]
+     },
+     {
+      "title": "Peer Mentorship and Academic Support",
+      "lead": "Provide support in:",
+      "items": [
+       "Academic English",
+       "Business case studies",
+       "Presentations",
+       "Research assignments",
+       "Cambridge assessment preparation"
+      ]
+     }
+    ],
+    "conclusion": {
+     "summary": "### Business Studies Transition Summary\n\nStudents from Burkina Faso generally enter ALA with strong practical awareness of entrepreneurship, local business environments, and organizational challenges.\n\nUnlike students from more affluent economies, many Burkina Faso students have firsthand exposure to:\n\n- Informal markets\n- Small business operations\n- Community entrepreneurship\n- Resource-constrained problem solving\n\nThese experiences align strongly with ALA's entrepreneurial leadership mission.\n\nHowever, students may require support in:\n\n- Academic English\n- Business communication\n- Case study analysis\n- Financial interpretation\n- Innovation frameworks\n- Research methodology",
+     "readinessTitle": "Overall Burkina Faso Business Studies Readiness for ALA",
+     "readiness": [
+      {
+       "area": "Business Awareness",
+       "rating": "Moderate-High"
+      },
+      {
+       "area": "Entrepreneurship",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Management Concepts",
+       "rating": "Moderate-High"
+      },
+      {
+       "area": "Financial Literacy",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Business Analysis",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Innovation Thinking",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Academic English",
+       "rating": "Low"
+      },
+      {
+       "area": "Independent Research",
+       "rating": "Moderate"
+      }
+     ],
+     "verdict": "Moderate-High with targeted support in business communication, innovation, research methodology, and English-language instruction."
+    },
+    "extra": []
+   }
+  },
+  {
+   "country": "burkina-faso",
+   "subject": "language-transition",
+   "title": "Burkina Faso (Francophone Baccalauréat System) Comparative Analysis",
+   "overall": "Moderate-Low",
+   "content": {
+    "benchmark": "Benchmarking Language Preparedness for ALA Cambridge Curriculum and NEASC Competencies",
+    "overview": [
+     {
+      "label": "Primary Language of Instruction",
+      "value": "French"
+     },
+     {
+      "label": "Secondary Languages",
+      "value": "Local Languages (Mooré, Dioula, Fulfulde and others)"
+     },
+     {
+      "label": "English Exposure",
+      "value": "Low-Moderate"
+     },
+     {
+      "label": "Academic Writing Language",
+      "value": "French"
+     },
+     {
+      "label": "Examination Language",
+      "value": "French"
+     },
+     {
+      "label": "Research Language",
+      "value": "French"
+     },
+     {
+      "label": "Classroom Discussion",
+      "value": "French"
+     },
+     {
+      "label": "Alignment with ALA English-Medium Environment",
+      "value": "Moderate-Low"
+     }
+    ],
+    "profiles": [
+     {
+      "label": "After Grade 10 Equivalent",
+      "heading": "Language Preparedness",
+      "ratings": [
+       {
+        "area": "Conversational English",
+        "rating": "Low-Moderate"
+       },
+       {
+        "area": "Academic English",
+        "rating": "Low"
+       },
+       {
+        "area": "Scientific English",
+        "rating": "Low"
+       },
+       {
+        "area": "Essay Writing in English",
+        "rating": "Low"
+       },
+       {
+        "area": "Oral Presentations",
+        "rating": "Low-Moderate"
+       },
+       {
+        "area": "Reading Comprehension",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Research Writing",
+        "rating": "Low"
+       },
+       {
+        "area": "ALA Readiness",
+        "rating": "Moderate-Low"
+       }
+      ],
+      "strengths": [
+       "Strong literacy skills in French.",
+       "Strong verbal communication in French.",
+       "Strong memory retention.",
+       "Good listening skills.",
+       "Strong classroom discipline.",
+       "Strong perseverance.",
+       "Good reading habits.",
+       "Strong willingness to learn."
+      ],
+      "challenges": [
+       "Academic English writing.",
+       "Scientific vocabulary.",
+       "Classroom participation in English.",
+       "Oral presentations.",
+       "Research papers.",
+       "Cambridge essay structures.",
+       "Debate participation.",
+       "Academic confidence in English."
+      ]
+     },
+     {
+      "label": "After Baccalauréat Completion",
+      "heading": "Language Preparedness",
+      "ratings": [
+       {
+        "area": "Conversational English",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Academic English",
+        "rating": "Low-Moderate"
+       },
+       {
+        "area": "Scientific English",
+        "rating": "Low-Moderate"
+       },
+       {
+        "area": "Essay Writing",
+        "rating": "Moderate-Low"
+       },
+       {
+        "area": "Research Writing",
+        "rating": "Low-Moderate"
+       },
+       {
+        "area": "Oral Communication",
+        "rating": "Moderate"
+       },
+       {
+        "area": "Presentation Skills",
+        "rating": "Moderate"
+       },
+       {
+        "area": "ALA Readiness",
+        "rating": "Moderate"
+       }
+      ],
+      "strengths": [
+       "Strong literacy foundations.",
+       "Strong written communication in French.",
+       "Good analytical communication.",
+       "Strong reading comprehension.",
+       "Ability to structure arguments.",
+       "Strong examination discipline.",
+       "Good independent study habits.",
+       "Strong adaptability."
+      ],
+      "challenges": [
+       "Advanced academic English.",
+       "Research writing.",
+       "Seminar discussions.",
+       "Public speaking in English.",
+       "Subject-specific vocabulary.",
+       "Academic presentations.",
+       "Debate participation.",
+       "Cambridge-style evaluative writing."
+      ]
+     }
+    ],
+    "strengths": [
+     {
+      "area": "French Literacy",
+      "evidence": "Strong academic tradition"
+     },
+     {
+      "area": "Reading Skills",
+      "evidence": "Strong"
+     },
+     {
+      "area": "Writing Foundations",
+      "evidence": "Well-developed in French"
+     },
+     {
+      "area": "Structured Communication",
+      "evidence": "Strong"
+     },
+     {
+      "area": "Argument Construction",
+      "evidence": "Good preparation"
+     },
+     {
+      "area": "Academic Discipline",
+      "evidence": "Strong"
+     },
+     {
+      "area": "Learning Adaptability",
+      "evidence": "High"
+     },
+     {
+      "area": "Multilingual Background",
+      "evidence": "Common among students"
+     }
+    ],
+    "gaps": [
+     {
+      "area": "Academic English",
+      "impact": "Significant challenge"
+     },
+     {
+      "area": "Research Writing",
+      "impact": "Significant challenge"
+     },
+     {
+      "area": "Scientific Vocabulary",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Classroom Participation",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Oral Presentations",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Debate Participation",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Academic Confidence",
+      "impact": "Moderate challenge"
+     },
+     {
+      "area": "Cambridge Assessment Language",
+      "impact": "Moderate challenge"
+     }
+    ],
+    "cambridge": [
+     {
+      "area": "Reading Comprehension",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Essay Writing",
+      "rating": "Moderate-Low"
+     },
+     {
+      "area": "Research Writing",
+      "rating": "Low-Moderate"
+     },
+     {
+      "area": "Academic Communication",
+      "rating": "Moderate-Low"
+     },
+     {
+      "area": "Oral Presentation",
+      "rating": "Moderate"
+     },
+     {
+      "area": "Debate and Discussion",
+      "rating": "Moderate-Low"
+     },
+     {
+      "area": "Subject-Specific Vocabulary",
+      "rating": "Low-Moderate"
+     },
+     {
+      "area": "Independent Research",
+      "rating": "Moderate-Low"
+     },
+     {
+      "area": "Overall English Readiness",
+      "rating": "Moderate-Low"
+     }
+    ],
+    "neasc": [
+     {
+      "competency": "Critical Thinking",
+      "rating": "High",
+      "commentary": "Students often possess strong analytical potential despite language barriers."
+     },
+     {
+      "competency": "Communication",
+      "rating": "Moderate-Low",
+      "commentary": "English transition is the primary challenge."
+     },
+     {
+      "competency": "Collaboration",
+      "rating": "Moderate",
+      "commentary": "Language barriers may initially affect participation."
+     },
+     {
+      "competency": "Creativity",
+      "rating": "Moderate",
+      "commentary": "Students often become more expressive as language confidence improves."
+     },
+     {
+      "competency": "Self-Directed Learning",
+      "rating": "Moderate-High",
+      "commentary": "Strong resilience and adaptability support transition."
+     },
+     {
+      "competency": "Ethical Reasoning",
+      "rating": "High",
+      "commentary": "Strong awareness of social and community issues."
+     },
+     {
+      "competency": "Global Perspective",
+      "rating": "Moderate",
+      "commentary": "Limited by language exposure rather than intellectual capability."
+     }
+    ],
+    "ala": [
+     {
+      "expectation": "Academic Writing",
+      "preparedness": "Low-Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Research Writing",
+      "preparedness": "Low-Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Oral Communication",
+      "preparedness": "Moderate",
+      "support": "Moderate"
+     },
+     {
+      "expectation": "Classroom Participation",
+      "preparedness": "Moderate-Low",
+      "support": "High"
+     },
+     {
+      "expectation": "Presentation Skills",
+      "preparedness": "Moderate",
+      "support": "Moderate"
+     },
+     {
+      "expectation": "Independent Research",
+      "preparedness": "Moderate-Low",
+      "support": "High"
+     },
+     {
+      "expectation": "English Fluency",
+      "preparedness": "Low-Moderate",
+      "support": "High"
+     },
+     {
+      "expectation": "Leadership Communication",
+      "preparedness": "Moderate-Low",
+      "support": "High"
+     }
+    ],
+    "recommendations": [
+     {
+      "title": "Intensive Academic English Programme",
+      "lead": "Focus on:",
+      "items": [
+       "Academic writing",
+       "Essay development",
+       "Research communication",
+       "Reading comprehension",
+       "Academic vocabulary"
+      ]
+     },
+     {
+      "title": "English for STEM and Humanities Workshops",
+      "lead": "Support students in:",
+      "items": [
+       "Scientific terminology",
+       "Historical writing",
+       "Economic essays",
+       "Research communication",
+       "Subject-specific literacy"
+      ]
+     },
+     {
+      "title": "Public Speaking and Debate Training",
+      "lead": "Develop competence in:",
+      "items": [
+       "Presentations",
+       "Classroom discussions",
+       "Debate participation",
+       "Leadership communication",
+       "Confidence building"
+      ]
+     },
+     {
+      "title": "Writing Centre Support",
+      "lead": "Provide assistance with:",
+      "items": [
+       "Essays",
+       "Research reports",
+       "Extended projects",
+       "Cambridge assessments",
+       "Academic editing"
+      ]
+     },
+     {
+      "title": "Francophone Student Mentorship Programme",
+      "lead": "Pair students with:",
+      "items": [
+       "Strong English-speaking peers",
+       "Academic mentors",
+       "Writing tutors",
+       "Presentation coaches",
+       "Student leaders"
+      ]
+     }
+    ],
+    "conclusion": {
+     "summary": "### Language Transition Summary\n\nFor Burkina Faso students, the greatest challenge at ALA is language transition rather than intellectual capability or academic potential.\n\nAcross all subjects analysed, students demonstrate:\n\n- Strong resilience\n- Strong work ethic\n- Strong awareness of African development issues\n- Good analytical reasoning\n- Strong social and environmental awareness\n- Strong academic discipline\n\nHowever, the transition from a French-medium educational system to an highly rigorous English-medium Cambridge curriculum can initially affect:\n\n- Academic writing\n- Research communication\n- Classroom participation\n- Leadership communication\n- Presentations\n- Debate participation\n- Independent inquiry",
+     "readinessTitle": "OVERALL LANGUAGE TRANSITION READINESS",
+     "readiness": [
+      {
+       "area": "Reading Comprehension",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Academic Writing",
+       "rating": "Moderate-Low"
+      },
+      {
+       "area": "Research Writing",
+       "rating": "Low-Moderate"
+      },
+      {
+       "area": "Oral Communication",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Presentation Skills",
+       "rating": "Moderate"
+      },
+      {
+       "area": "Debate and Discussion",
+       "rating": "Moderate-Low"
+      },
+      {
+       "area": "English Fluency",
+       "rating": "Low-Moderate"
+      }
+     ],
+     "verdict": "Moderate-Low – the single most important area requiring institutional support."
+    },
+    "extra": [
+     {
+      "title": "Comparative Language Analysis",
+      "body": "| Area | Tunisia | Burkina Faso |\n| --- | --- | --- |\n| French Literacy | Very High | High |\n| Academic Writing | High | Moderate-High |\n| English Exposure | Moderate | Low-Moderate |\n| Research Writing Readiness | Moderate | Low-Moderate |\n| Classroom Participation in English | Moderate | Moderate-Low |\n| Presentation Skills | Moderate | Moderate |\n| Overall Language Transition Readiness | Moderate | Moderate-Low |\n\n### Key Observation\n\nCompared to Tunisia, Burkina Faso students generally face a larger English-language transition challenge.\n\nThis is not because of lower academic ability, but because:\n\n- English exposure is typically lower.\n- Academic resources are more frequently available only in French.\n- Research and presentation opportunities are often more limited.\n- Students have fewer opportunities to engage in English-medium academic environments before ALA."
+     }
+    ]
+   }
+  }
+ ],
+ "comparisons": [
+  {
+   "id": "francophone",
+   "name": "Francophone systems: Tunisia and Burkina Faso",
+   "description": "The ALA research team's subject-by-subject comparison of Tunisia and Burkina Faso against the ALA Cambridge curriculum.",
+   "countries": [
+    "tunisia",
+    "burkina-faso"
+   ],
+   "matrices": [
+    {
+     "subject": "biology",
+     "rows": [
+      {
+       "area": "Language of Instruction",
+       "implication": "Both require English academic transition support.",
+       "ratings": {
+        "tunisia": "French",
+        "burkina-faso": "French"
+       }
+      },
+      {
+       "area": "Curriculum Orientation",
+       "implication": "Tunisia better aligned with Cambridge Biology depth.",
+       "ratings": {
+        "tunisia": "Strong STEM focus",
+        "burkina-faso": "General science focus"
+       }
+      },
+      {
+       "area": "Cell Biology",
+       "implication": "Tunisia students typically enter with stronger theoretical foundations.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Genetics",
+       "implication": "Tunisia more aligned to Cambridge Genetics content.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Human Physiology",
+       "implication": "Both provide adequate preparation.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Ecology",
+       "implication": "Burkina Faso often stronger due to environmental focus.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Laboratory Exposure",
+       "implication": "Tunisia generally offers stronger practical preparation.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Scientific Investigation",
+       "implication": "Tunisia closer to Cambridge investigative learning.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Research Skills",
+       "implication": "Both require support.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Academic English Readiness",
+       "implication": "Burkina Faso faces greater language transition challenges.",
+       "ratings": {
+        "tunisia": "Moderate-Low",
+        "burkina-faso": "Low"
+       }
+      },
+      {
+       "area": "Overall ALA Biology Readiness",
+       "implication": "Tunisia generally enters better prepared for Cambridge Biology.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      }
+     ],
+     "conclusion": "### Tunisia Strengths\n\n- Strong STEM preparation.\n- Strong genetics and molecular biology foundations.\n- Better laboratory exposure.\n- Better preparation for A-Level Biology.\n\n### Burkina Faso Strengths\n\n- Strong environmental awareness.\n- Strong ecological understanding.\n- Strong resilience and adaptability.\n\n### ALA Support Priorities\n\n- Academic English.\n- Research skills.\n- Scientific writing."
+    },
+    {
+     "subject": "chemistry",
+     "rows": [
+      {
+       "area": "Atomic Structure",
+       "implication": "Tunisia closer to Cambridge expectations.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Organic Chemistry",
+       "implication": "Tunisia significantly stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Physical Chemistry",
+       "implication": "Tunisia stronger in theoretical chemistry.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Quantitative Chemistry",
+       "implication": "Tunisia demonstrates stronger mathematical chemistry skills.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Laboratory Skills",
+       "implication": "Tunisia students often more confident in practical work.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Scientific Analysis",
+       "implication": "Tunisia better aligned to A-Level Chemistry.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Research Skills",
+       "implication": "Support needed for both.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Academic English",
+       "implication": "Language transition affects both.",
+       "ratings": {
+        "tunisia": "Moderate-Low",
+        "burkina-faso": "Low"
+       }
+      },
+      {
+       "area": "Overall Chemistry Readiness",
+       "implication": "Tunisia better prepared for Cambridge Chemistry.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      }
+     ],
+     "conclusion": "Tunisia generally demonstrates:\n\n- Stronger STEM preparation.\n- Better laboratory competence.\n- Stronger quantitative chemistry skills.\n\nBurkina Faso demonstrates:\n\n- Strong work ethic.\n- Strong conceptual foundations.\n- Greater need for practical laboratory support."
+    },
+    {
+     "subject": "physics",
+     "rows": [
+      {
+       "area": "Mechanics",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Electricity & Magnetism",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Waves & Optics",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Mathematical Physics",
+       "implication": "Major difference.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Problem Solving",
+       "implication": "Tunisia better prepared.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Laboratory Skills",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Research Skills",
+       "implication": "Support needed for both.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Academic English",
+       "implication": "Language remains a challenge.",
+       "ratings": {
+        "tunisia": "Moderate-Low",
+        "burkina-faso": "Low"
+       }
+      },
+      {
+       "area": "Overall Physics Readiness",
+       "implication": "Tunisia more aligned with Cambridge Physics.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      }
+     ],
+     "conclusion": "Tunisia's system provides:\n\n- Strong mathematical preparation.\n- Strong analytical reasoning.\n- Better alignment with A-Level Physics.\n\nBurkina Faso provides:\n\n- Good conceptual understanding.\n- Strong discipline.\n- Greater need for mathematical modelling support."
+    },
+    {
+     "subject": "mathematics",
+     "rows": [
+      {
+       "area": "Algebra",
+       "implication": "Both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Functions",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Geometry",
+       "implication": "Both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Trigonometry",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Calculus",
+       "implication": "Major distinction.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Mathematical Modelling",
+       "implication": "Tunisia closer to Cambridge style.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Statistics",
+       "implication": "Tunisia slightly stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Problem Solving",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Overall Mathematics Readiness",
+       "implication": "Both strong, Tunisia exceptional.",
+       "ratings": {
+        "tunisia": "Very High",
+        "burkina-faso": "High"
+       }
+      }
+     ],
+     "conclusion": "Mathematics is a strength for both systems.\n\n### Tunisia\n\n- Strongest STEM preparation overall.\n- Closest alignment with Cambridge Mathematics.\n\n### Burkina Faso\n\n- Strong procedural mathematics.\n- More support needed in modelling and application-based questions."
+    },
+    {
+     "subject": "computer-science",
+     "rows": [
+      {
+       "area": "Digital Literacy",
+       "implication": "Both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Programming Exposure",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Computational Thinking",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Software Development",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Low-Moderate"
+       }
+      },
+      {
+       "area": "Independent Projects",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Technical Communication",
+       "implication": "Support needed.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Overall CS Readiness",
+       "implication": "Tunisia slightly stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      }
+     ],
+     "conclusion": "Both countries require:\n\n- Programming support.\n- Project-based learning exposure.\n- Technical communication support.\n- Tunisia enters with stronger computational preparation."
+    },
+    {
+     "subject": "economics",
+     "rows": [
+      {
+       "area": "Economic Theory",
+       "implication": "Tunisia stronger theoretically.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Development Economics",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Policy Analysis",
+       "implication": "Both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Quantitative Economics",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Governance Awareness",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "African Development Understanding",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Overall Economics Readiness",
+       "implication": "Different strengths.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      }
+     ],
+     "conclusion": "### Tunisia\n\n- Strong theoretical economics.\n- Better quantitative preparation.\n\n### Burkina Faso\n\n- Strong development perspective.\n- Strong governance awareness.\n- Strong alignment with ALA's mission."
+    },
+    {
+     "subject": "geography",
+     "rows": [
+      {
+       "area": "Physical Geography",
+       "implication": "Both provide strong preparation.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Human Geography",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Development Geography",
+       "implication": "Burkina Faso significantly stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Environmental Management",
+       "implication": "Burkina Faso stronger due to direct exposure to environmental challenges.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Climate Change Studies",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Population Studies",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Geographic Analysis",
+       "implication": "Both perform well.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Fieldwork Exposure",
+       "implication": "Tunisia slightly stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate-Low"
+       }
+      },
+      {
+       "area": "Research Skills",
+       "implication": "Both require support.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Overall Geography Readiness",
+       "implication": "Different strengths but both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      }
+     ],
+     "conclusion": "### Tunisia Strengths\n\n- Strong analytical geography.\n- Strong physical geography foundations.\n- Better quantitative geographic analysis.\n\n### Burkina Faso Strengths\n\n- Strong development geography.\n- Strong environmental awareness.\n- Strong understanding of African sustainability challenges.\n- Strong population and migration studies exposure.\n\n### ALA Implications\n\nBurkina Faso Geography aligns exceptionally well with ALA's focus on:\n\n- Climate resilience\n- Sustainable development\n- Food security\n- Environmental leadership\n- Community impact"
+    },
+    {
+     "subject": "history",
+     "rows": [
+      {
+       "area": "African History",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Colonial History",
+       "implication": "Both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Independence Movements",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Political History",
+       "implication": "Both strong.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Governance Awareness",
+       "implication": "Burkina Faso stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "High"
+       }
+      },
+      {
+       "area": "Historical Analysis",
+       "implication": "Tunisia slightly stronger analytically.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Essay Writing",
+       "implication": "Similar preparation.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate-High"
+       }
+      },
+      {
+       "area": "Source Analysis",
+       "implication": "Tunisia stronger.",
+       "ratings": {
+        "tunisia": "Moderate-High",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Research Skills",
+       "implication": "Both require support.",
+       "ratings": {
+        "tunisia": "Moderate",
+        "burkina-faso": "Moderate"
+       }
+      },
+      {
+       "area": "Overall History Readiness",
+       "implication": "Both well prepared.",
+       "ratings": {
+        "tunisia": "High",
+        "burkina-faso": "High"
+       }
+      }
+     ],
+     "conclusion": "### Tunisia Strengths\n\n- Strong analytical historical thinking.\n- Better preparation for source analysis.\n- Strong Mediterranean and international history perspectives.\n\n### Burkina Faso Strengths\n\n- Strong African historical awareness.\n- Strong governance and post-colonial understanding.\n- Strong understanding of liberation movements.\n\n### ALA Implications\n\nBurkina Faso's History curriculum often aligns more directly with:\n\n- Leadership\n- Governance\n- Nation-building\n- African transformation\n\nwhile Tunisia provides stronger analytical preparation."
+    }
+   ]
+  }
+ ],
+ "countryFindings": {
+  "burkina-faso": {
+   "ranking": [
+    "Geography",
+    "History",
+    "Mathematics",
+    "Physics",
+    "Economics",
+    "Business Studies",
+    "Chemistry",
+    "Biology",
+    "Computer Science"
+   ],
+   "keyFindings": "### Major finding\n\nBurkina Faso students are often highly aligned with ALA's mission, values, leadership philosophy, and development focus, but language transition remains the single biggest barrier to academic success.\n\nOnce English-language barriers are addressed, many students demonstrate exceptional potential in:\n\n- Leadership\n- Governance\n- Development Studies\n- Geography\n- History\n- Economics\n- Community Impact\n\n### Emerging country profile\n\nBurkina Faso students appear strongest in:\n\n- Geography\n- History\n- Development Studies\n- Governance Awareness\n- Mathematics\n- Leadership-Relevant Social Sciences\n\nCompared to Tunisia, which is STEM-dominant, Burkina Faso demonstrates stronger alignment with:\n\n- Leadership development\n- Governance studies\n- Community engagement\n- Sustainable development\n- African transformation challenges"
+  }
+ }
+}
